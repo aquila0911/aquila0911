@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aquila0911&label=Profile%20views&color=0e75b6&style=flat" alt="aquila0911" /> </p>
 
-- 🌱 I’m currently learning **DL**
+- 🌱 I’m currently working on my **Backend** skills.
 
 - 📧 Contact Me: **siddharth.ghosh9@gmail.com**
 
-- 📄 My Experiences: [Resume](https://drive.google.com/file/d/1zcMJKqFuTM4DX6En98mowOI99URJogTy/view?usp=sharing)
+- 📄 My Experiences: [Resume](https://drive.google.com/file/d/1G6pvKhrRLrDOCtljNSKj6ya3DZUH9elr/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
